@@ -1,0 +1,9 @@
+a. touch szakaszzaro_feladat
+b. echo "Hello" >> szakaszzaro_feladat
+c. mv szakaszzaro_feladat feladat
+d. cp feladat feladat 2
+e. rm feladat 2
+f. cat feladat
+
+9.
+grep 'NetworkManager' /var/log/syslog >> feladat 
